@@ -4,7 +4,7 @@
 
 1. Alberth Viana de Lima
 2. Ana Júlia Pereira Corrêa
-3. Daniel
+3. Daniel Silveira Gonzales
 4. Júlio Melo Campos
 
 # Etapas do trabalho
